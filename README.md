@@ -1,5 +1,5 @@
 <h1 align="center"> Hi,  I'm Maitén <img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/></h1>
-<img align="right" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+<img align="right"  width="500vw" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 <p><em> 🌍 I'm a Full-Stack Developer from Argentina
 </em></p>
 <p><em>🌱Starting to learn how to use aws.</em></p>
