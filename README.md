@@ -1,8 +1,10 @@
 ## Hi,  I'm Maitén 👋
 
-
-<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I'm a full-Stack Developer from Argentina
-</em></p><p>🌱Currently working on some of my personal projects while learning aws, hope tu public them soon!</p>
+<img align="right" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+<p><em>I'm a Full-Stack Developer from Argentina
+</em></p>
+<p><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> Starting to learn how to use aws</p>
+<p><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="17vw"/> Currently working on some of my personal projects, hope tu public them soon!</p>
 
 <div align="left">
 
@@ -25,6 +27,7 @@
 
 <!--
 **Maipeinetti/Maipeinetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 Here are some ideas to get you started:
 
