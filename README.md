@@ -1,4 +1,4 @@
-<h1 align="center"> Hi,  I'm Maitén 👋💻 </h1>
+<h1 align="center"> Hi,  I'm Maitén <img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/></h1>
 <img align="right" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 <p><em> 🌍 I'm a Full-Stack Developer from Argentina
 </em></p>
