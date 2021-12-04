@@ -1,14 +1,13 @@
-## Hi,  I'm Maitén 👋
-
+<h1 align="center"> Hi,  I'm Maitén 👋💻 </h1>
 <img align="right" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
-<p><em>I'm a Full-Stack Developer from Argentina
+<p><em> 🌍 I'm a Full-Stack Developer from Argentina
 </em></p>
-<p><img src="https://github.com/anathayna/anathayna/blob/master/assets/bmo.gif?raw=1" width="30vw"/> Starting to learn how to use aws</p>
-<p><img src="https://github.com/anathayna/anathayna/blob/master/assets/happy.gif?raw=1" width="17vw"/> Currently working on some of my personal projects, hope tu public them soon!</p>
+<p><em>🌱Starting to learn how to use aws.</em></p>
+<p><em>⚡Currently working on some of my personal projects, hope tu public them soon!</em></p>
 
 <div align="left">
 
- ## 💬 You can find me:
+ ## Where you can find me:
  
   ![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)
   ![Gmail Badge](https://img.shields.io/badge/-maitenpeinetti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
