@@ -4,8 +4,8 @@
 <img align="right"  src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 <p><em> 🌍 I'm a Full-Stack Developer from Argentina
 </em></p>
-<p><em>🌱Starting to learn how to use aws.</em></p>
-<p><em>⚡Currently working on some of my personal projects, hope tu public them soon!</em></p>
+<p><em>🌱Currently learning aws.</em></p>
+<p><em>⚡Working on some of my personal side projects, hope tu public them soon!</em></p>
 
 <div align="left">
 <h3>Reach out to me on: </h3>
