@@ -10,7 +10,7 @@
 <div align="left">
 <h3>Reach out to me on: </h3>
 
-  ![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)
+  ![Maiten Peinetti](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)
   ![Gmail Badge](https://img.shields.io/badge/-maitenpeinetti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
 
 </div>
