@@ -11,7 +11,7 @@
 <h3>Reach out to me on: </h3>
 
   
-  [![Linkedin Badge](https://img.shields.io/badge/-maitenpeinetti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maitenpeinetti/)](https://www.linkedin.com/in/maitenpeinetti/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Maiten Peinetti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maitenpeinetti/)](https://www.linkedin.com/in/maitenpeinetti/)
   [![Gmail Badge](https://img.shields.io/badge/-maitenpeinetti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maitenpeinetti@gmail.com)](mailto:maitenpeinetti@gmail.com)
 
  
